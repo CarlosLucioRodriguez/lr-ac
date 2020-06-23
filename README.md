@@ -30,3 +30,9 @@ Console logs ► En la consola se monstaran en colores los logs.
 Logs IG ► En el chat saldra los logs del LR-AC.
 Compatibilidad con OneSync 'Infinity' ► En la lista de usuarios conectados te saldran todos los jugadores.
 ```
+
+### REVIEW
+```
+
+https://www.youtube.com/watch?v=duYy787JTZI
+```
